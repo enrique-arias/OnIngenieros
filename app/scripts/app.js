@@ -1,5 +1,5 @@
 require('angular')
 
-angular.module('app',[ui.bootstrap]);
+angular.module('app',[]);
 
 
