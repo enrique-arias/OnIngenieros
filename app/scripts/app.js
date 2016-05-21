@@ -1,3 +1,5 @@
-var amCapApp = angular.module('app',[ui.bootstrap']);
+require('angular')
+
+angular.module('app',[ui.bootstrap]);
 
 

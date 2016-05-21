@@ -3,7 +3,7 @@ angular.module('app').controller('BusinessCaseTemplateCtrl', function($scope, $s
 
     $scope.menu = 'Enrique';
 
-}]);
+});
 
 
 
